@@ -1,0 +1,28 @@
+nav>ul {
+    display: flex;
+    justify-content: center;
+    border: 2px solid purple;
+    border-radius: 5px;
+    background-color: greenyellow;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav li:hover {
+    background-color: lightcoral;
+}
+main{
+    background-color:aquamarine;
+}
+body {
+    background-color: rgb(20, 50, 105);
+}
